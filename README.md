@@ -24,7 +24,7 @@ Here are a few of the projects featured on my portfolio:
   A simple browser-based multiplayer arcade game with keyboard controls, built using JavaScript and HTML Canvas.
 
 - **Online Course Engagement Analyzer**  
-  A data analysis project using Python and Pandas to uncover engagement patterns on online learning platforms.
+  A data analysis project using MYSQL s to uncover engagement patterns on online learning platforms.
 
 ## 🌐 Live Website
 

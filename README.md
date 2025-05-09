@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 I am a final-year B.Tech student at NIT Durgapur, with a strong interest in software development and problem-solving. I enjoy building web-based tools, working with data, and continuously learning new technologies. I'm proficient in:
 
 - C++, OOPs
-- Java (Basics)
+- Git,vs code
 - HTML, CSS, JavaScript
 - MySQL, DBMS
 - DSA (Data Structures & Algorithms)
